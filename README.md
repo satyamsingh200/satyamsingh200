@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Satyam Singh 👋
 
-<!--
-**satyamsingh200/satyamsingh200** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Backend Developer
 
-Here are some ideas to get you started:
+I’m focused on building reliable and scalable backend applications using Java and Python. I work with APIs, databases, and backend development concepts while strengthening my DSA and problem-solving skills through practical projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technologies & Skills
+
+- Java
+- Python
+- REST APIs
+- SQL & Databases
+- Data Structures & Algorithms
+- Git & GitHub
+
+## 🚀 Projects
+
+- **QUANTUM-HYBRID-AI-FRAUD-DETECTION** — AI + Quantum-based real-time payment fraud detection system
+- **Job Portal AI** — AI-based job portal project
+- **PayOracle-Ai ** — Web application with authentication and database integration
+- **Resume Screening System with AI ** — Console-based game developed in C
+
+## 📚 Currently Learning
+
+- Backend Development
+- Data Structures & Algorithms
+- System Design
+- API Development
+
+## 🤝 Connect With Me
+
+- LinkedIn: [https://www.linkedin.com/in/satyam-singh-1446b8337/]
+- GitHub: [https://github.com/satyamsingh200](https://github.com/satyamsingh200)
