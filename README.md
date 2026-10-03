@@ -17,8 +17,8 @@ I’m focused on building reliable and scalable backend applications using Java 
 
 - **QUANTUM-HYBRID-AI-FRAUD-DETECTION** — AI + Quantum-based real-time payment fraud detection system
 - **Job Portal AI** — AI-based job portal project
- **PayOracle-AI** — Developed a web-based application with user authentication, database integration, and AI-powered functionality for processing and analyzing application data.
-  **AI-Powered Resume Screening**: Developed an intelligent resume screening system using Python, Machine Learning,
+ - **PayOracle-AI** — Developed a web-based application with user authentication, database integration, and AI-powered functionality for processing and analyzing application data.
+ - **AI-Powered Resume Screening**: Developed an intelligent resume screening system using Python, Machine Learning,
 PHP, and MySQL to automatically analyze resumes, extract candidate skills, and rank applicants based on job
 requirements.
 
